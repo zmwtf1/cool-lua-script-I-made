@@ -8,4 +8,4 @@ for i, p in ipairs(players:GetPlayers()) do
 end
 
 -- print credits
-print("Script by: nivalos")
+print("Script by: zmwtf1")
