@@ -14,4 +14,4 @@ end
 copyandprintidandname()
 
 -- print credits
-print("Made by: Nivalos")
+print("Made by: zmwtf1")
